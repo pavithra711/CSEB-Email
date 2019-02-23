@@ -1,3 +1,2 @@
 # CSEB-Email
-Academic Project(Software engineering)
-hello world
+Academic Project(Software engineering
